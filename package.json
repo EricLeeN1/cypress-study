@@ -2,7 +2,6 @@
   "name": "cypress-study",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "cypress:open": "cypress open",
     "test": "echo \"Error: no test specified\" && exit 1"
